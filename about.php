@@ -1,4 +1,5 @@
 <?php
+/*
 include("db.php");
 
 // Select all partners from database (ordered randomly)
@@ -30,6 +31,7 @@ while (($partner = mysqli_fetch_assoc($partner_l)))
     $row .= "\t\t<td><a href=\"" . $partner['website'] . "\">" . $web . "</a></td></tr>\n";
     $table .= $row;
 }
+*/
 ?>
 
 <!DOCTYPE html>
@@ -219,8 +221,9 @@ h1, h2
         <td style="width: calc(1vw + 8em);">Location(s)</td>
         <td style="width: calc(1vw + 8em);">Benefit</td>
         <td style="width: calc(1vw + 8em);">Website</td></tr>
-<?php echo $table;?>
+<?php /* echo $table; */?>
 </table><br/>
+<?php echo "I commented out all the PHP so this page could work without the database, so now this ^ is just nothing.<br><br>" ?>
 
 <h2>Executive</h2>
 <table class="exec"><tr><td>Year</td>
@@ -504,13 +507,39 @@ h1, h2
     <td>Alexa Baxter</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td></tr>
+<tr>
+    <td>2025</td>
+    <td>Christopher</td>
+    <td>Giulio</td>
+    <td>Henry</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td>2026</td>
+    <td>Harry</td>
+    <td>Emily</td>
+    <td>Atlas</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td>2027</td>
+    <td>Harry</td>
+    <td>Emily</td>
+    <td>Aneesha</td>
+    <td>Atlas<sup>S</sup></td>
+    <td>Giaan<br>David</td>
+</tr>
 </table>
 <div class="column2"><sup>A</sup> Acting officer.<br/>
 <sup>C</sup> Custodian.<br/>
 <sup>E</sup> Editor.</div>
 <div class="column2"><sup>J</sup> Joint position.<br/>
 <sup>P</sup> The President was originally titled &ldquo;Chairman&rdquo;.<br/>
-<sup>V</sup> Vice&ndash;President.</div>
+<sup>V</sup> Vice&ndash;President.<br>
+<sup>S</sup> Social Media Manager.
+</div>
 
 <h2>Life Members</h2>
 <ul><li>Jack Ford (1999)</li>
