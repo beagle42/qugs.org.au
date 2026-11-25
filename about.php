@@ -209,8 +209,8 @@ h1, h2
     </select></td></tr></table></div>
 <h1>About the Society</h1>
 <p>Established 1978, QUGS is the tabletop gaming society of the University of Queensland.</p>
-<p>We enjoy playing a broad range of game genres including abstract strategy, bluffing, cooperative, deck building, drafting, engine building, press your luck, role&ndash;playing, set collection, worker placement, and many more.</p>
-<p>Membership costs $5.00 for the year and being a student is not required. Everybody from complete novices to hard&ndash;core tabletop gamers are welcome. You are welcome to attend for a few weeks before joining.</p>
+<p>We enjoy playing a broad range of game genres including abstract strategy, bluffing, cooperative, deck building, drafting, engine building, press your luck, role-playing, set collection, worker placement, and many more.</p>
+<p>Membership costs $5.00 for the year and being a student is not required. Everybody from complete novices to hard-core tabletop gamers are welcome. You are welcome to attend for a few weeks before joining.</p>
 <p>QUGS meets on Mondays, starting at 5:00pm for board games, and on Thursdays, starting at 6:30pm for a <i>Magic: The Gathering</i> draft. We meet throughout the year, including university holidays, and usually only halt for university exam block and <i>force majeure</i>.</p>
 
 <h2>Partners</h2>
@@ -368,7 +368,7 @@ h1, h2
     <td>Nick Frampton</td>
     <td>Lucas Papadopoulos</td>
     <td>Gary Johnson <sup>C</sup><br/>Nick Frampton <sup>E</sup><br/>David Astley <sup>JV</sup></td>
-    <td>David Cowland&ndash;Cooper <sup>JV</sup><br/>Darryl Greensill  <sup>JV</sup></td></tr>
+    <td>David Cowland-Cooper <sup>JV</sup><br/>Darryl Greensill  <sup>JV</sup></td></tr>
 <tr><td>2002</td>
     <td>Kylie Fisher</td>
     <td>Ben Yeoh</td>
@@ -461,7 +461,7 @@ h1, h2
     <td>&nbsp;</td></tr>
 <tr><td>2017</td>
     <td>Lee Phillips</td>
-    <td>Harvey Kay&ndash;Burman<br/>Bradley Stone <sup>A</sup></td>
+    <td>Harvey Kay-Burman<br/>Bradley Stone <sup>A</sup></td>
     <td>Catherine Shield<br/>Rob Copel <sup>A</sup></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td></tr>
@@ -490,19 +490,19 @@ h1, h2
     <td>&nbsp;</td>
     <td>&nbsp;</td></tr>
 <tr><td>2022</td>
-    <td>Blaire Alexander&ndash;Gordon</td>
+    <td>Blaire Alexander-Gordon</td>
     <td>Jzi Sinn Tan</td>
     <td>Alexa Baxter</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td></tr>
 <tr><td>2023</td>
-    <td>Blaire Alexander&ndash;Gordon</td>
+    <td>Blaire Alexander-Gordon</td>
     <td>Noah Kneipp</td>
     <td>Alexa Baxter</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td></tr>
 <tr><td>2024</td>
-    <td>Blaire Alexander&ndash;Gordon</td>
+    <td>Blaire Alexander-Gordon</td>
     <td>Noah Kneipp</td>
     <td>Alexa Baxter</td>
     <td>&nbsp;</td>
@@ -537,7 +537,7 @@ h1, h2
 <sup>E</sup> Editor.</div>
 <div class="column2"><sup>J</sup> Joint position.<br/>
 <sup>P</sup> The President was originally titled &ldquo;Chairman&rdquo;.<br/>
-<sup>V</sup> Vice&ndash;President.<br>
+<sup>V</sup> Vice-President.<br>
 <sup>S</sup> Social Media Manager.
 </div>
 
@@ -611,63 +611,63 @@ h1, h2
 <li><a href="wargamer/QW18_Nov83.pdf">Issue Eighteen (November, 1983)</a></li>
 <li><a href="wargamer/QW19_Sep84.pdf">Issue Nineteen (September, 1984)</a></li>
 <li><a href="wargamer/QW20_May85.pdf">Issue Twenty (May, 1985)</a></li>
-<li><a href="wargamer/QW21_Sep85.pdf">Issue Twenty&ndash;One (September, 1985)</a></li>
-<li><a href="wargamer/QW22_May86.pdf">Issue Twenty&ndash;Two (May, 1986)</a></li>
-<li><a href="wargamer/QW23_Aug86.pdf">Issue Twenty&ndash;Three (August, 1986)</a></li>
-<li><a href="wargamer/QW24_Feb87.pdf">Issue Twenty&ndash;Four (February, 1987)</a></li>
-<li><a href="wargamer/QW25_May87.pdf">Issue Twenty&ndash;Five (May, 1987)</a></li>
-<li><a href="wargamer/QW26_Sep87.pdf">Issue Twenty&ndash;Six (September, 1987)</a></li>
-<li><a href="wargamer/QW27_Jun88.pdf">Issue Twenty&ndash;Seven (June, 1988)</a></li>
-<li><a href="wargamer/QW28_Apr89.pdf">Issue Twenty&ndash;Eight (April, 1989)</a></li>
-<li><a href="wargamer/QW29_Feb90.pdf">Issue Twenty&ndash;Nine (February, 1990)</a></li></div>
+<li><a href="wargamer/QW21_Sep85.pdf">Issue Twenty-One (September, 1985)</a></li>
+<li><a href="wargamer/QW22_May86.pdf">Issue Twenty-Two (May, 1986)</a></li>
+<li><a href="wargamer/QW23_Aug86.pdf">Issue Twenty-Three (August, 1986)</a></li>
+<li><a href="wargamer/QW24_Feb87.pdf">Issue Twenty-Four (February, 1987)</a></li>
+<li><a href="wargamer/QW25_May87.pdf">Issue Twenty-Five (May, 1987)</a></li>
+<li><a href="wargamer/QW26_Sep87.pdf">Issue Twenty-Six (September, 1987)</a></li>
+<li><a href="wargamer/QW27_Jun88.pdf">Issue Twenty-Seven (June, 1988)</a></li>
+<li><a href="wargamer/QW28_Apr89.pdf">Issue Twenty-Eight (April, 1989)</a></li>
+<li><a href="wargamer/QW29_Feb90.pdf">Issue Twenty-Nine (February, 1990)</a></li></div>
 <div class="column2"><li><a href="wargamer/QW30_Jun90.pdf">Issue Thirty (June, 1990)</a></li>
-<li><a href="wargamer/QW31_Nov90.pdf">Issue Thirty&ndash;One (November, 1990)</a></li>
+<li><a href="wargamer/QW31_Nov90.pdf">Issue Thirty-One (November, 1990)</a></li>
 <li><a href="wargamer/QWaa_Feb91.pdf">Special: The Collected 00? (June, 1991)</a></li>
-<li><a href="wargamer/QW32_Jun91.pdf">Issue Thirty&ndash;Two (June, 1991)</a></li>
-<li><a href="wargamer/QW33_Aug91.pdf">Issue Thirty&ndash;Three (August, 1991)</a></li>
-<li><a href="wargamer/QW34_Jun92.pdf">Issue Thirty&ndash;Four (June, 1992)</a></li>
-<li><a href="wargamer/QW35_Nov92.pdf">Issue Thirty&ndash;Five (November, 1992)</a></li>
+<li><a href="wargamer/QW32_Jun91.pdf">Issue Thirty-Two (June, 1991)</a></li>
+<li><a href="wargamer/QW33_Aug91.pdf">Issue Thirty-Three (August, 1991)</a></li>
+<li><a href="wargamer/QW34_Jun92.pdf">Issue Thirty-Four (June, 1992)</a></li>
+<li><a href="wargamer/QW35_Nov92.pdf">Issue Thirty-Five (November, 1992)</a></li>
 <li><a href="wargamer/QWbb_Feb93.pdf">Special: Intrigue at Castle Morien (February, 1993)</a></li>
-<li><a href="wargamer/QW36_Jul93.pdf">Issue Thirty&ndash;Six (July, 1993)</a></li>
-<li><a href="wargamer/QW37_Feb94.pdf">Issue Thirty&ndash;Seven (February, 1994)</a></li>
-<li><a href="wargamer/QW38_Nov94.pdf">Issue Thirty&ndash;Eight (November, 1994)</a></li>
-<li><a href="wargamer/QW39_Feb95.pdf">Issue Thirty&ndash;Nine (February, 1995)</a></li>
+<li><a href="wargamer/QW36_Jul93.pdf">Issue Thirty-Six (July, 1993)</a></li>
+<li><a href="wargamer/QW37_Feb94.pdf">Issue Thirty-Seven (February, 1994)</a></li>
+<li><a href="wargamer/QW38_Nov94.pdf">Issue Thirty-Eight (November, 1994)</a></li>
+<li><a href="wargamer/QW39_Feb95.pdf">Issue Thirty-Nine (February, 1995)</a></li>
 <li><a href="wargamer/QW40_May95.pdf">Issue Forty (May, 1995)</a></li>
-<li><a href="wargamer/QW41_Sep95.pdf">Issue Forty&ndash;One (September, 1995)</a></li>
-<li><a href="wargamer/QW42_Nov95.pdf">Issue Forty&ndash;Two (November, 1995)</a></li>
-<li><a href="wargamer/QW43_Feb96.pdf">Issue Forty&ndash;Three (February, 1996)</a></li>
-<li><a href="wargamer/QW44_May96.pdf">Issue Forty&ndash;Four (May, 1996)</a></li>
-<li><a href="wargamer/QW45_Sep96.pdf">Issue Forty&ndash;Five (September, 1996)</a></li>
-<li><a href="wargamer/QW46_Dec96.pdf">Issue Forty&ndash;Six (Dec, 1996)</a></li>
-<li><a href="wargamer/QW47_Feb97.pdf">Issue Forty&ndash;Seven (February, 1997)</a></li>
-<li><a href="wargamer/QW48_May97.pdf">Issue Forty&ndash;Eight (May, 1997)</a></li>
-<li><a href="wargamer/QW49_Sep97.pdf">Issue Forty&ndash;Nine (September, 1997)</a></li>
+<li><a href="wargamer/QW41_Sep95.pdf">Issue Forty-One (September, 1995)</a></li>
+<li><a href="wargamer/QW42_Nov95.pdf">Issue Forty-Two (November, 1995)</a></li>
+<li><a href="wargamer/QW43_Feb96.pdf">Issue Forty-Three (February, 1996)</a></li>
+<li><a href="wargamer/QW44_May96.pdf">Issue Forty-Four (May, 1996)</a></li>
+<li><a href="wargamer/QW45_Sep96.pdf">Issue Forty-Five (September, 1996)</a></li>
+<li><a href="wargamer/QW46_Dec96.pdf">Issue Forty-Six (Dec, 1996)</a></li>
+<li><a href="wargamer/QW47_Feb97.pdf">Issue Forty-Seven (February, 1997)</a></li>
+<li><a href="wargamer/QW48_May97.pdf">Issue Forty-Eight (May, 1997)</a></li>
+<li><a href="wargamer/QW49_Sep97.pdf">Issue Forty-Nine (September, 1997)</a></li>
 <li><a href="wargamer/QW50_Sep98.pdf">Issue Fifty (September, 1998)</a></li>
-<li><a href="wargamer/QW51_Sep99.pdf">Issue Fifty&ndash;One (September, 1999)</a></li>
-<li><a href="wargamer/QW52_Apr00.pdf">Issue Fifty&ndash;Two (April, 2000)</a></li>
-<li><a href="wargamer/QW53_Dec01.pdf">Issue Fifty&ndash;Three (Dec, 2001)</a></li>
-<li><a href="wargamer/QW54_Sep02.pdf">Issue Fifty&ndash;Four (September, 2002)</a></li>
-<li><a href="wargamer/QW55_Feb03.pdf">Issue Fifty&ndash;Five (February, 2003)</a></li>
-<li><a href="wargamer/QW56_Sep04.pdf">Issue Fifty&ndash;Six (September, 2004)</a></li></div></ul>
+<li><a href="wargamer/QW51_Sep99.pdf">Issue Fifty-One (September, 1999)</a></li>
+<li><a href="wargamer/QW52_Apr00.pdf">Issue Fifty-Two (April, 2000)</a></li>
+<li><a href="wargamer/QW53_Dec01.pdf">Issue Fifty-Three (Dec, 2001)</a></li>
+<li><a href="wargamer/QW54_Sep02.pdf">Issue Fifty-Four (September, 2002)</a></li>
+<li><a href="wargamer/QW55_Feb03.pdf">Issue Fifty-Five (February, 2003)</a></li>
+<li><a href="wargamer/QW56_Sep04.pdf">Issue Fifty-Six (September, 2004)</a></li></div></ul>
 
-<h2>Semi&ndash;Annual QUGS <i>Twilight Imperium</i> Champions</h2>
+<h2>Semi-Annual QUGS <i>Twilight Imperium</i> Champions</h2>
 Twice each year, on a Monday public holiday, QUGS runs a game of <i><a href="https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition">Twilight Imperium</a></i>.<br/>
 Since its inception in 2019, the winners have been:
 <ul class="twi">
 <li>May 2019: Bradley Stone <img class="ti" src="images/ti_naalu.png" title="The Naalu Collective"/></li>
 <li>Oct 2019: Logan Senjov <img class="ti" src="images/ti_hacan.png" title="The Emirates of Hacan"/></li>
 <li>May 2020: Rowan Evans <img class="ti" src="images/ti_yin.png" title="The Yin Brotherhood"/></li>
-<li>Oct 2020: Harvey Kay&ndash;Burman <img class="ti" src="images/ti_nekro.png" title="The Nekro Virus"/></li>
+<li>Oct 2020: Harvey Kay-Burman <img class="ti" src="images/ti_nekro.png" title="The Nekro Virus"/></li>
 <!--li>Dec 2020: Bradley Stone <img class="ti" src="images/ti_vuilraith.png" title="The Vuil'Raith Cabal"/></li-->
-<li>May 2021: Harvey Kay&ndash;Burman <img class="ti" src="images/ti_ul.png" title="The Titans of Ul"/></li>
+<li>May 2021: Harvey Kay-Burman <img class="ti" src="images/ti_ul.png" title="The Titans of Ul"/></li>
 <li>Oct 2021: Bradley Stone <img class="ti" src="images/ti_l1z1x.png" title="The L1Z1X Mindnet"/></li>
 <li>May 2022: Bradley Stone <img class="ti" src="images/ti_yssaril.png" title="The Yssaril Tribes"/></li>
 <li>Oct 2022: Bradley Stone <img class="ti" src="images/ti_creuss.png" title="The Ghosts of Creuss"/></li>
 <li>May 2023: Bradley Stone <img class="ti" src="images/ti_argent.png" title="The Argent Flight"/></li>
-<li>Oct 2023: Harvey Kay&ndash;Burman <img class="ti" src="images/ti_sol.png" title="The Federation of Sol"/></li>
+<li>Oct 2023: Harvey Kay-Burman <img class="ti" src="images/ti_sol.png" title="The Federation of Sol"/></li>
 <li>May 2024: Bradley Stone <img class="ti" src="images/ti_vuilraith.png" title="The Vuil'raith Cabal"/></li>
 <li style="list-style-type: none;">&nbsp;</li>
-<li>May 2025: Andy Chen <img class="ti" src="images/ti_jolnar.png" title="The Universities of Jol&ndash;Nar"/></li>
+<li>May 2025: Andy Chen <img class="ti" src="images/ti_jolnar.png" title="The Universities of Jol-Nar"/></li>
 <li style="list-style-type: none;">&nbsp;</li>
 <li>May 2026: Kibo Liang <img class="ti" src="images/ti_saar.png" title="The Clan of Saar"/></li>
 <li>Oct 2026: Kibo Liang <img class="ti" src="images/ti_mahact.png" title="The Mahact Gene-Sorcerers"/></li>
